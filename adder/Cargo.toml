@@ -5,5 +5,9 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[[bin]]
+name = "adder_cli"
+path = "src/main.rs"
+
 [dependencies]
 add_one = { path = "../add_one" }
