@@ -3,4 +3,6 @@
 members = [
     "adder",
     "add_one",
+    "squan",
+    "cli",
 ]
